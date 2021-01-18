@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/06/16 14:14:30.000.946,=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/06/16 14:14:52.000.742,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\UMenuUtama.dfm</Transaction>
+    <Transaction>2017/06/16 14:14:52.000.742,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\UMenuUtama.pas</Transaction>
+    <Transaction>2017/06/16 14:14:59.000.259,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\PAUD.dproj</Transaction>
+    <Transaction>2017/06/16 14:39:10.000.453,=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas</Transaction>
+    <Transaction>2017/06/16 14:39:57.000.090,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\ULogin.dfm=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.dfm</Transaction>
+    <Transaction>2017/06/16 14:39:57.000.090,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\ULogin.pas=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas</Transaction>
+    <Transaction>2017/06/16 14:46:11.000.442,=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas</Transaction>
+    <Transaction>2017/06/16 14:46:59.000.152,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\DataModule.dfm=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.dfm</Transaction>
+    <Transaction>2017/06/16 14:46:59.000.152,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\DataModule.pas=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas</Transaction>
+    <Transaction>2017/06/16 14:49:57.000.514,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\PAUD.dproj=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\PAUD.dproj</Transaction>
+    <Transaction>2017/06/16 14:59:09.000.775,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\PAUD.dproj=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\PAUD.dproj</Transaction>
+    <Transaction>2017/06/16 15:37:00.000.839,=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas</Transaction>
+    <Transaction>2017/06/16 15:40:29.000.047,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.dfm=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\UPendaftaran.dfm</Transaction>
+    <Transaction>2017/06/16 15:40:29.000.047,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\UPendaftaran.pas</Transaction>
+    <Transaction>2017/06/18 10:22:51.000.475,=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas</Transaction>
+    <Transaction>2017/06/18 10:27:51.000.561,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.dfm=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\UMasterData.dfm</Transaction>
+    <Transaction>2017/06/18 10:27:51.000.561,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\UMasterData.pas</Transaction>
+    <Transaction>2017/06/18 10:33:02.000.758,=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas</Transaction>
+    <Transaction>2017/06/18 10:36:16.000.880,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.dfm=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\UKeuangan.dfm</Transaction>
+    <Transaction>2017/06/18 10:36:16.000.880,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\UKeuangan.pas</Transaction>
+    <Transaction>2017/07/08 12:26:26.000.344,=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit3.pas</Transaction>
+    <Transaction>2017/07/08 12:27:34.000.777,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\UMasterData.pas=</Transaction>
+    <Transaction>2017/07/08 12:28:39.000.587,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\UMasterData.dfm=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit3.dfm</Transaction>
+    <Transaction>2017/07/08 12:28:39.000.587,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\UMasterData.pas=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit3.pas</Transaction>
+    <Transaction>2017/07/24 07:52:49.000.367,=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas</Transaction>
+    <Transaction>2017/07/24 07:56:40.000.062,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.pas=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Ubayaran.pas</Transaction>
+    <Transaction>2017/07/24 07:56:40.000.062,C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Unit1.dfm=C:\Users\Zahito\Documents\Embarcadero\Studio\Projects\PAUD\Ubayaran.dfm</Transaction>
+    <Transaction>2017/07/26 08:18:55.000.836,G:\haha\PAUD.dproj=G:\PAUD\PAUD.dproj</Transaction>
+    <Transaction>2017/07/27 03:52:33.000.824,=G:\PAUD\Unit1.pas</Transaction>
+    <Transaction>2017/07/27 03:53:50.000.919,G:\PAUD\UGaji.pas=G:\PAUD\Unit1.pas</Transaction>
+    <Transaction>2017/07/27 03:53:50.000.919,G:\PAUD\UGaji.dfm=G:\PAUD\Unit1.dfm</Transaction>
+    <Transaction>2017/07/27 06:17:48.000.955,=G:\PAUD\Unit1.pas</Transaction>
+    <Transaction>2017/07/27 06:23:43.000.674,G:\PAUD\Unit1.pas=G:\PAUD\ULupas.pas</Transaction>
+    <Transaction>2017/07/27 06:23:43.000.674,G:\PAUD\Unit1.dfm=G:\PAUD\ULupas.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DataModule.pas"/>
+    <File Path="DataModule.dfm"/>
+    <File Path="Ubayaran.pas"/>
+    <File Path="Ubayaran.dfm"/>
+    <File Path="UKeuangan.pas"/>
+    <File Path="UKeuangan.dfm"/>
+    <File Path="ULogin.pas"/>
+    <File Path="ULogin.dfm"/>
+    <File Path="UMasterData.pas"/>
+    <File Path="UMasterData.dfm"/>
+    <File Path="UMenuUtama.pas"/>
+    <File Path="UMenuUtama.dfm"/>
+    <File Path="UPendaftaran.pas"/>
+    <File Path="UPendaftaran.dfm"/>
+    <File Path="UGaji.pas"/>
+    <File Path="UGaji.dfm"/>
+    <File Path="ULupas.pas"/>
+    <File Path="ULupas.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
